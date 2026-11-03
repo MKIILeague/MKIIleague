@@ -1,28 +1,35 @@
-# Syed Farid Arfan
-### Full-Stack & AI Developer
+<h1 align="center">Hey, I'm Arfan 👋</h1>
 
-**Machine Learning · Deep Learning · Computer Vision · AI Automation**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2800&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=55&amp;lines=Full-Stack+%26+AI+Developer;Exploring+Machine+Learning+%26+Deep+Learning;Building+with+AI+%26+Automation" alt="Full-Stack and AI Developer. Exploring Machine Learning and Deep Learning. Building with AI and Automation.">
+</p>
 
-[![MKIILeague](https://img.shields.io/badge/MKIILeague-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MKIILeague)
-[![Syed Farid Arfan](https://img.shields.io/badge/Syed_Farid_Arfan-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/syed-farid-arfan/)
+<p align="center">Machine Learning · Deep Learning · Computer Vision · AI Automation</p>
+
+<p align="center"><i>Curiosity drives the idea. Building makes it real.</i></p>
+
+<p align="center">
+  <a href="https://github.com/MKIILeague"><img src="https://img.shields.io/badge/MKIILeague-181717?style=for-the-badge&logo=github&logoColor=white" alt="MKIILeague"></a>
+  <a href="https://www.linkedin.com/in/syed-farid-arfan/"><img src="https://img.shields.io/badge/Syed_Farid_Arfan-0A66C2?style=for-the-badge" alt="Syed Farid Arfan"></a>
+</p>
+
+## 👋 A little about me
+
+I'm a Computer Science undergraduate at **Universiti Selangor**, excited about turning ideas into working applications. I build across **full-stack development, machine learning, and deep learning**, with hands-on experience in web applications and computer vision.
+
+**AI is both what I build with and what I love exploring.** ChatGPT, Codex, AGY, and Claude Code are part of my development toolkit. I'm especially interested in AI automation and bringing intelligent features into everyday software.
+
+I learn by experimenting, asking questions, and building the next version. There's always something new to figure out, and that's what keeps me going. 🚀
+
+## ⚡ My development workspace
 
 ```text
-learn → build → experiment → improve
+IDEAS & CODE     ChatGPT · Codex · AGY · Claude Code
+BUILD & EXPLORE  VS Code · Google Colab
+REPEAT          experiment → review → test → improve
 ```
 
-## / about me
-
-Hey, I'm Arfan 👋
-
-I'm a Computer Science undergraduate at Universiti Selangor who enjoys building applications and exploring what AI can make possible. My interests bring together **full-stack development, machine learning, and deep learning**—from creating usable interfaces to working with the models and data behind them.
-
-What excites me about machine learning is the process of turning data into something useful. I enjoy experimenting with models, understanding their predictions, and finding ways to improve them. My hands-on work includes an eye disease classification project using **TensorFlow, Keras, and MobileNetV2**, where I worked with image preprocessing, transfer learning, augmentation, and model evaluation.
-
-I'm also interested in **AI automation**: connecting tools, reducing repetitive tasks, and exploring how intelligent features can become part of everyday applications. I use AI coding tools in my development workflow and want to keep exploring how they can help me build and experiment more effectively.
-
-I learn best by building. Whether I'm developing a web application, training a model, or debugging an unexpected result, I enjoy figuring out how the pieces fit together—and making the next version better.
-
-## / what interests me
+## 🧠 What interests me
 
 | Focus | What draws me to it |
 | :--- | :--- |
@@ -31,9 +38,9 @@ I learn best by building. Whether I'm developing a web application, training a m
 | **AI Automation** | Exploring workflows that connect tools and reduce repetitive work. |
 | **Full-Stack Development** | Bringing interfaces, application logic, and databases together into useful software. |
 
-## / selected work
+## 🚀 Selected projects
 
-### 01 — Eye Disease Classification
+### 01 · Eye Disease Classification
 
 **Deep Learning · Computer Vision · Transfer Learning**
 
@@ -43,17 +50,17 @@ I applied transfer learning with **MobileNetV2** to a dataset of **4,217 images*
 
 `Python` `TensorFlow` `Keras` `MobileNetV2` `OpenCV` `Matplotlib` `Seaborn`
 
-### 02 — Kedai Ibunon
+### 02 · Kedai Ibunon
 
 **Full-Stack Development · Online Food Ordering**
 
 A responsive food ordering application developed for a client as my diploma final-year project.
 
-I worked on responsive interfaces, database-backed functionality, performance improvements, and testing—bringing together the front-end and back-end pieces of a practical web application.
+I worked on responsive interfaces, database-backed functionality, performance improvements, and testing, bringing together the front-end and back-end pieces of a practical web application.
 
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-### 03 — TicketChain
+### 03 · TicketChain
 
 **Full-Stack Application · Digital Event Ticketing**
 
@@ -63,7 +70,7 @@ I built the React interface, integrated wallet connections and transaction signi
 
 `React` `Solidity` `Firebase Firestore` `IPFS` `MetaMask` `Privy` `Vercel`
 
-### 04 — Sales Data Visualization
+### 04 · Sales Data Visualization
 
 **Python · Analytics · Reporting**
 
@@ -73,7 +80,7 @@ I worked with data exported from HubSpot and built graphs using Matplotlib and S
 
 `Python` `Matplotlib` `Seaborn` `HubSpot`
 
-### 05 — Car Loan System
+### 05 · Car Loan System
 
 **Application Development · Visual Programming**
 
@@ -83,7 +90,7 @@ I developed the interface and data handling, then tested different inputs and sc
 
 `C#`
 
-## / tech stack
+## 🛠️ Tech stack
 
 **Programming Languages**
 
@@ -122,17 +129,16 @@ I developed the interface and data handling, then tested different inputs and sc
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge)
 ![AGY](https://img.shields.io/badge/AGY-4285F4?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
 
-## / where I want to go next
+## ⚡ What I bring to a project
 
-- Bring machine learning models into interactive web applications.
-- Explore AI automation for repetitive tasks and everyday workflows.
-- Deepen my understanding of neural networks, transfer learning, and model evaluation.
-- Build applications that make AI features accessible and useful.
-
----
+- **Practical AI experience:** Building and evaluating image classification models with TensorFlow, Keras, and transfer learning.
+- **An AI-assisted workflow:** Using ChatGPT, Codex, AGY, and Claude Code as part of my development toolkit, alongside testing and debugging.
+- **A problem-solving mindset:** Breaking down challenges, experimenting with solutions, and improving through feedback.
+- **Collaboration that moves work forward:** Experience working with clients, developers, and cross-functional teams to turn requirements into practical results.
 
 **Curious about how it works. Excited about what I can build with it.**
