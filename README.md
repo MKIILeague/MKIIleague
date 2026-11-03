@@ -1,27 +1,21 @@
-<h1 align="center">Hey, I'm Arfan 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2800&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=55&amp;lines=Full-Stack+%26+AI+Developer;Exploring+Machine+Learning+%26+Deep+Learning;Building+with+AI+%26+Automation" alt="Full-Stack and AI Developer. Exploring Machine Learning and Deep Learning. Building with AI and Automation.">
-</p>
-
+<h1 align="center">Hey, I'm Arfan</h1>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=2800&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=55&amp;lines=Full-Stack+%26+AI+Developer;Exploring+Machine+Learning+%26+Deep+Learning;Building+with+AI+%26+Automation" alt="Full-Stack and AI Developer. Exploring Machine Learning and Deep Learning. Building with AI and Automation."></p>
 <p align="center">Machine Learning · Deep Learning · Computer Vision · AI Automation</p>
-
-<p align="center"><i>Curiosity drives the idea. Building makes it real.</i></p>
 
 <p align="center">
   <a href="https://github.com/MKIILeague"><img src="https://img.shields.io/badge/MKIILeague-181717?style=for-the-badge&logo=github&logoColor=white" alt="MKIILeague"></a>
   <a href="https://www.linkedin.com/in/syed-farid-arfan/"><img src="https://img.shields.io/badge/Syed_Farid_Arfan-0A66C2?style=for-the-badge" alt="Syed Farid Arfan"></a>
 </p>
 
-## 👋 A little about me
+## A little about me
 
 I'm a Computer Science undergraduate at **Universiti Selangor**, excited about turning ideas into working applications. I build across **full-stack development, machine learning, and deep learning**, with hands-on experience in web applications and computer vision.
 
 **AI is both what I build with and what I love exploring.** ChatGPT, Codex, AGY, and Claude Code are part of my development toolkit. I'm especially interested in AI automation and bringing intelligent features into everyday software.
 
-I learn by experimenting, asking questions, and building the next version. There's always something new to figure out, and that's what keeps me going. 🚀
+I learn by experimenting, asking questions, and building the next version. There's always something new to figure out, and that's what keeps me going.
 
-## ⚡ My development workspace
+## My development workspace
 
 ```text
 IDEAS & CODE     ChatGPT · Codex · AGY · Claude Code
@@ -29,7 +23,7 @@ BUILD & EXPLORE  VS Code · Google Colab
 REPEAT          experiment → review → test → improve
 ```
 
-## 🧠 What interests me
+## What interests me
 
 | Focus | What draws me to it |
 | :--- | :--- |
@@ -38,7 +32,7 @@ REPEAT          experiment → review → test → improve
 | **AI Automation** | Exploring workflows that connect tools and reduce repetitive work. |
 | **Full-Stack Development** | Bringing interfaces, application logic, and databases together into useful software. |
 
-## 🚀 Selected projects
+## Selected projects
 
 ### 01 · Eye Disease Classification
 
@@ -80,17 +74,7 @@ I worked with data exported from HubSpot and built graphs using Matplotlib and S
 
 `Python` `Matplotlib` `Seaborn` `HubSpot`
 
-### 05 · Car Loan System
-
-**Application Development · Visual Programming**
-
-A C# application with forms, interface controls, and a data access layer for storing and retrieving information.
-
-I developed the interface and data handling, then tested different inputs and scenarios to identify and fix issues.
-
-`C#`
-
-## 🛠️ Tech stack
+## Tech stack
 
 **Programming Languages**
 
@@ -134,11 +118,13 @@ I developed the interface and data handling, then tested different inputs and sc
 ![AGY](https://img.shields.io/badge/AGY-4285F4?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
 
-## ⚡ What I bring to a project
+## What I bring to a project
 
+- **Ideas into working software:** Hands-on experience connecting responsive interfaces, application logic, and databases.
 - **Practical AI experience:** Building and evaluating image classification models with TensorFlow, Keras, and transfer learning.
 - **An AI-assisted workflow:** Using ChatGPT, Codex, AGY, and Claude Code as part of my development toolkit, alongside testing and debugging.
 - **A problem-solving mindset:** Breaking down challenges, experimenting with solutions, and improving through feedback.
 - **Collaboration that moves work forward:** Experience working with clients, developers, and cross-functional teams to turn requirements into practical results.
 
-**Curious about how it works. Excited about what I can build with it.**
+
+
